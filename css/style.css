@@ -769,7 +769,7 @@ h2.h2-3c {
 .navbar-toggler {
 	/*background-color: transparent;*/
 	border: 0px;
-	z-index:100000;//Add this property
+	z-index:100000;
 }
 
 .collapsing
@@ -1962,7 +1962,7 @@ h2.h2-3c {
 	.collapse-text {
 		font-size: 9px;
 		text-align: left;
-		margin-left: 0px
+		margin-left: 0px;
 		padding-left: 0px;
 	}
 
